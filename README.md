@@ -1,7 +1,19 @@
-<img src="https://trisquel.info/files/stnew7.jpg" alt="Richard Stallman | Trisquel GNU/Linux - Run free!"/>
-
 ### Hi there 👋
 
 - 🌱 I’m currently learning D language, SFML (D bindings)
-- 👯 I’m looking to collaborate on making games using SFML and D
+- 👯 I am not looking for collaborators
 - 📫 How to reach me: therealbluepandabear@protonmail.com
+- 🇳🇿 I am from New Zealand
+
+### Stuff I've made
+
+- PixaPencil - pixel art software for Android: https://github.com/therealbluepandabear/PixaPencil
+- Snake - game made in SFML: https://github.com/therealbluepandabear/Snake
+
+
+
+
+
+
+
+
