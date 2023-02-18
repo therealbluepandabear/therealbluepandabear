@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning D language, SFML (D bindings)
+- 🌱 I’m currently learning full-stack development
 - 👯 I am not looking for collaborators
 - 📫 How to reach me: therealbluepandabear@protonmail.com
 - 🇳🇿 I am from New Zealand
