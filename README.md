@@ -7,9 +7,11 @@
 
 ### Stuff I've made
 
-- PixaPencil - pixel art software for Android: https://github.com/therealbluepandabear/PixaPencil
-- Snake - game made in SFML: https://github.com/therealbluepandabear/Snake
+- PixaPencil - pixel art software for Android: https://github.com/therealbluepandabear/PixaPencil_Classic
 
+### Stuff I am planning on doing
+
+PixaPencil for web.
 
 
 
